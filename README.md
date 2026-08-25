@@ -4,16 +4,12 @@ Independent software studio building tools for people who move: telemetry
 analysis for riders, trail forecasts for mountain bikers, note-polish for
 Obsidian, and typing software for custom keyboards.
 
-Everything is designed, built and supported in-house by founder John Cattrall:
-several years at AWS, now Chief Technologist at AwareAI. Quiet confidence,
-no hype.
-
 ## Products
 
-- **[Lapfly](https://lapfly.com)** · plain-English lap debriefs from raw motorsport telemetry
-- **[MudWatch](https://mudwatch.com)** · trail conditions for mountain bikers, modelled not guessed (public beta)
-- **Burnish Pro** · the paid edition of our diff-first Obsidian plugin (free core listed in the official directory)
-- **[Keyfly](https://andamanworks.com/keyfly)** · free typing app for modified layouts and custom keymaps
+- <img src="assets/lapfly.svg" height="30" valign="middle" alt=""> **[Lapfly](https://lapfly.com)** · plain-English lap debriefs from raw motorsport telemetry
+- <img src="assets/mudwatch.png" height="30" valign="middle" alt=""> **[MudWatch](https://mudwatch.com)** · trail conditions for mountain bikers, modelled not guessed (public beta)
+- <img src="assets/burnish.svg" height="30" valign="middle" alt=""> **[Burnish Pro](https://andamanworks.com/#products)** · the paid edition of our diff-first Obsidian plugin (free core listed in the official directory)
+- <img src="assets/keyfly.svg" height="30" valign="middle" alt=""> **[Keyfly](https://andamanworks.com/keyfly)** · free typing app for modified layouts and custom keymaps
 
 ## Labs
 
