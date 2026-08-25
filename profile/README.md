@@ -9,7 +9,7 @@ Obsidian, and typing software for custom keyboards.
 <table>
 <tr>
 <td width="140" align="center" valign="middle">
-  <a href="https://lapfly.com"><img src="assets/lapfly.svg" alt="Lapfly" width="110" /></a>
+  <a href="https://lapfly.com"><img src="https://raw.githubusercontent.com/andamanworks/.github/main/profile/assets/lapfly.svg" alt="Lapfly" width="110" /></a>
 </td>
 <td valign="middle">
   <strong><a href="https://lapfly.com">Lapfly</a></strong><br/>
@@ -18,7 +18,7 @@ Obsidian, and typing software for custom keyboards.
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
-  <a href="https://mudwatch.com"><img src="assets/mudwatch.png" alt="MudWatch" width="100" /></a>
+  <a href="https://mudwatch.com"><img src="https://raw.githubusercontent.com/andamanworks/.github/main/profile/assets/mudwatch.png" alt="MudWatch" width="100" /></a>
 </td>
 <td valign="middle">
   <strong><a href="https://mudwatch.com">MudWatch</a></strong><br/>
@@ -27,7 +27,7 @@ Obsidian, and typing software for custom keyboards.
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
-  <a href="https://andamanworks.com/#products"><img src="assets/burnish.svg" alt="Burnish Pro" width="90" /></a>
+  <a href="https://andamanworks.com/#products"><img src="https://raw.githubusercontent.com/andamanworks/.github/main/profile/assets/burnish.svg" alt="Burnish Pro" width="90" /></a>
 </td>
 <td valign="middle">
   <strong><a href="https://andamanworks.com/#products">Burnish Pro</a></strong><br/>
@@ -36,7 +36,7 @@ Obsidian, and typing software for custom keyboards.
 </tr>
 <tr>
 <td width="140" align="center" valign="middle">
-  <a href="https://andamanworks.com/keyfly"><img src="assets/keyfly.svg" alt="Keyfly" width="110" /></a>
+  <a href="https://andamanworks.com/keyfly"><img src="https://raw.githubusercontent.com/andamanworks/.github/main/profile/assets/keyfly.svg" alt="Keyfly" width="110" /></a>
 </td>
 <td valign="middle">
   <strong><a href="https://andamanworks.com/keyfly">Keyfly</a></strong><br/>
